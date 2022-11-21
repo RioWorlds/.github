@@ -1,4 +1,4 @@
-<h1>RioWorlds</h1>
+<h1>Rioworlds</h1>
 <p>A private Minecraft server</p>
 <p>Website: https://rioworlds.su/</p>
 <p>Discord: https://rioworlds.su/discord</p>
