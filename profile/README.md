@@ -4,6 +4,6 @@
 <p>Discord: https://rioworlds.su/discord</p>
 Admins:
 <ul>
-<li>Relozan#7836</li>
+<li>Relozan#0001</li>
 <li>SkyWatcher_2019#5464</li>
 <ul>
