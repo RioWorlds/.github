@@ -1,5 +1,5 @@
 <h1>RioWorlds › minecraft сервер</h1>
-<li>A private Minecraft server</li>
+<p>Пиратский, приватный, ванильный сервер minecraft</p>
 <ul>
 <li>Website: https://rioworlds.su/</li>
 <li>Discord: https://rioworlds.su/discord</li>
