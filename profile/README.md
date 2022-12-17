@@ -1,9 +1,9 @@
 <h1>RioWorlds › minecraft сервер</h1>
-<ul>
 <li>A private Minecraft server</li>
+<ul>
 <li>Website: https://rioworlds.su/</li>
 <li>Discord: https://rioworlds.su/discord</li>
-<ul>
+</ul>
 
 Admin Discords:
 <ul>
@@ -11,4 +11,4 @@ Admin Discords:
 <li>SkyWatcher_2019#5464</li>
 <li>KungfuEpt#8709</li>
 <li>AnimeLore#7694</li>
-<ul>
+</ul>
