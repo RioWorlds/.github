@@ -1,7 +1,10 @@
-<h1>RioWorlds</h1>
-<p>A private Minecraft server</p>
-<p>Website: https://rioworlds.su/</p>
-<p>Discord: https://rioworlds.su/discord</p>
+<h1>RioWorlds › minecraft сервер</h1>
+<ul>
+<li>A private Minecraft server</li>
+<li>Website: https://rioworlds.su/</li>
+<li>Discord: https://rioworlds.su/discord</li>
+<ul>
+
 Admin Discords:
 <ul>
 <li>Relozan#0750</li>
