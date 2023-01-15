@@ -2,7 +2,7 @@
 <p>Пиратский, приватный, ванильный сервер minecraft</p>
 <ul>
 <li>Website: https://rioworlds.su/</li>
-<li>Discord: https://rioworlds.su/discord</li>
+<li>Discord: https://discord.gg/TZdux98q4M</li>
 </ul>
 
 Admin Discords:
