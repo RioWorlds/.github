@@ -7,7 +7,7 @@
 
 Admin Discords:
 <ul>
-<li>Relozan#0750</li>
+<li>Relozan#5800</li>
 <li>SkyWatcher_2019#5464</li>
 <li>KungfuEpt#8709</li>
 <li>AnimeLore#7694</li>
